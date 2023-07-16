@@ -1,6 +1,6 @@
 # sort-name
 
-check out live:[https://100-books.vercel.app/](https://sort-name.vercel.app/)
+check out live:https://sort-name.vercel.app/
 
 
   A simple web application that allows users to add & sort names.
